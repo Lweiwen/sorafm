@@ -11,7 +11,7 @@ Sora AI Video Generator
 1. clone project
 
 ```shell
-git clone https://github.com/all-in-aigc/sorafm
+git clone https://github.com/Lweiwen/sorafm
 ```
 
 2. install dependencies
